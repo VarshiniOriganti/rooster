@@ -29,15 +29,15 @@ export default function About() {
 
             <div className="flex gap-6">
               <div className="text-center">
-                <div className="text-4xl font-bold text-secondary mb-2">500+</div>
+                <div className="text-4xl font-bold text-green-800 mb-2">500+</div>
                 <p className="text-foreground">Happy Customers</p>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-secondary mb-2">50+</div>
+                <div className="text-4xl font-bold text-green-800 mb-2">50+</div>
                 <p className="text-foreground">Menu Items</p>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-secondary mb-2">10+</div>
+                <div className="text-4xl font-bold text-green-800 mb-2">10+</div>
                 <p className="text-foreground">Years Experience</p>
               </div>
             </div>
